@@ -1,5 +1,7 @@
 # AI to Agent 漫劇製作流程
 
+[![Release](https://img.shields.io/github/v/release/draiagent/ai-to-agent-comic-drama-production?logo=github)](https://github.com/draiagent/ai-to-agent-comic-drama-production/releases/latest)
+
 把故事拆成可執行鏡頭，用VAD看懂流程、用VAC定義任務與驗收，讓Agent按規格工作，人保留導演決策。
 
 **版本：0.1.0｜日期：2026-09-25｜類型：方法論＋教學教材｜授權：保留所有權利**
