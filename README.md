@@ -55,6 +55,44 @@ AI Coach 益力康陳董 x CGM Coach 血糖教練 | 2026 AI to Agent
 
 [90分鐘規格演練](docs/teaching.md)提供先備能力、練習與100分評量。宮殿案例把30秒拆成六鏡；單鏡示例演練皇帝拍桌、茶杯位置與重試上限，沒有聲稱已完成影片實測。
 
+## 專案結構
+
+```text
+ai-to-agent-comic-drama-production/
+├─ README.md
+├─ LICENSE                    # 保留所有權利
+├─ VERSION                    # 版本來源
+├─ CHANGELOG.md
+├─ RELEASE_NOTES.md
+├─ COPYRIGHT.md
+├─ THIRD_PARTY_NOTICES.md
+├─ CONTRIBUTING.md
+├─ AGENTS.md
+├─ project.json               # 專案中繼資料
+├─ validation-report.md
+├─ assets/
+│  ├─ manifest.json           # 圖卡來源與雜湊
+│  └─ images/                 # 四張 VAC 圖卡
+│     ├─ 01-overview.png
+│     ├─ 02-preproduction.png
+│     ├─ 03-generation.png
+│     └─ 04-delivery.png
+├─ docs/
+│  ├─ 00-reading-guide.md
+│  ├─ 01-usage.md ~ 04-usage.md   # 依頁碼使用介紹
+│  ├─ architecture.md
+│  ├─ vac-spec.md
+│  ├─ teaching.md
+│  └─ github-publishing.md
+├─ templates/                 # 資產表、分鏡表、Shot VAC、QC 表
+├─ examples/                  # 宮殿 30 秒案例與單鏡 VAC
+├─ scripts/
+│  └─ validate_repo.py        # 本地結構檢查
+└─ .github/
+   ├─ workflows/repo-check.yml
+   └─ scripts/repo-check.py
+```
+
 ## 目錄
 
 - `docs/`：四頁介紹、閱讀順序、架構、VAC規格、教學與GitHub上傳方式。
