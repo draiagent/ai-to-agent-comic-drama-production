@@ -1,0 +1,69 @@
+{
+  "schema_version": "0.1.0",
+  "shot_id": "EP01_SC01_SH003",
+  "goal": "皇帝拍桌一次，表達憤怒",
+  "inputs": {
+    "approved_image": null,
+    "asset_refs": [],
+    "previous_state": "皇帝坐在桌後，皇后站在桌前；茶杯固定於畫面右側"
+  },
+  "continuity": {
+    "start": "皇帝坐姿，右手準備抬起；茶杯在畫面右側",
+    "end": "右手拍桌後停在桌面；茶杯仍在畫面右側",
+    "coordinate_frame": "screen"
+  },
+  "image": {
+    "subject": "皇帝，沿用已核准角色設定",
+    "action": "坐姿，拍桌前狀態",
+    "environment": "同一宮殿與木桌",
+    "style": "沿用專案核准畫風，不另行改風格",
+    "composition": "固定中景；右手和茶杯可見"
+  },
+  "video": {
+    "subject_motion": "抬起右手拍桌一次",
+    "camera_motion": "固定中景",
+    "emotion": "憤怒",
+    "environment_motion": "茶杯輕晃，不傾倒",
+    "generation_duration_seconds": 5,
+    "keep_range_seconds": [
+      0.5,
+      3.5
+    ]
+  },
+  "audio": {
+    "dialogue": "",
+    "narration": "",
+    "lip_sync_required": false
+  },
+  "limits": {
+    "max_retries": 2,
+    "budget": {
+      "amount": 100,
+      "currency": "TWD"
+    }
+  },
+  "outputs": {
+    "video": "EP01_SC01_SH003_VID_v01.mp4",
+    "audio": "EP01_SC01_SH003_SFX_v01.wav",
+    "settings": "EP01_SC01_SH003_SETTINGS_v01.json"
+  },
+  "acceptance": [
+    "可用片段內完成拍桌一次",
+    "無明顯崩臉或手部變形",
+    "茶杯位置連貫",
+    "末幀狀態可接下一鏡"
+  ],
+  "review": {
+    "status": "draft",
+    "human_approved": false
+  },
+  "provenance": {
+    "tool": null,
+    "model": null,
+    "model_version": null,
+    "seed": null,
+    "asset_versions": [],
+    "actual_cost": null
+  },
+  "example_note": "教學規格示範，未生成影片；5秒與100元為示例設定，不是平台能力或價格；參考圖尚未提供，不可直接執行。"
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": "0.1.0",
+  "shot_id": null,
+  "goal": null,
+  "inputs": {
+    "approved_image": null,
+    "asset_refs": [],
+    "previous_state": null
+  },
+  "continuity": {
+    "start": null,
+    "end": null,
+    "coordinate_frame": "screen"
+  },
+  "image": {
+    "subject": null,
+    "action": null,
+    "environment": null,
+    "style": null,
+    "composition": null
+  },
+  "video": {
+    "subject_motion": null,
+    "camera_motion": null,
+    "emotion": null,
+    "environment_motion": null,
+    "generation_duration_seconds": null,
+    "keep_range_seconds": null
+  },
+  "audio": {
+    "dialogue": "",
+    "narration": "",
+    "lip_sync_required": false
+  },
+  "limits": {
+    "max_retries": null,
+    "budget": {
+      "amount": null,
+      "currency": "TWD"
+    }
+  },
+  "outputs": {
+    "video": null,
+    "audio": null,
+    "settings": null
+  },
+  "acceptance": [],
+  "review": {
+    "status": "draft",
+    "human_approved": false
+  },
+  "provenance": {
+    "tool": null,
+    "model": null,
+    "model_version": null,
+    "seed": null,
+    "asset_versions": [],
+    "actual_cost": null
+  }
+}

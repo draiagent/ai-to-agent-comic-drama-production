@@ -1,0 +1,21 @@
+{
+  "name": "ai-to-agent-comic-drama-production",
+  "version": "0.1.0",
+  "date": "2026-09-25",
+  "status": "方法論與教材初版；非自動化軟體",
+  "author": "AI Coach 益力康陳董 x CGM Coach 血糖教練 | 2026 AI to Agent",
+  "license_status": "all-rights-reserved",
+  "copyright_holder": null,
+  "description": "以 VAD／VAC 將 AI 漫劇製作拆成可執行、可驗收、可追溯的八步驟流程。",
+  "topics": [
+    "ai-to-agent",
+    "vac",
+    "vad",
+    "storyboard",
+    "ai-video",
+    "workflow",
+    "traditional-chinese"
+  ],
+  "website": null,
+  "visibility": "public"
+}

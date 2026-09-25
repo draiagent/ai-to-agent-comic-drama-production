@@ -1,0 +1,1 @@
+shot_id,narrative_goal,previous_state,subject,action,environment,shot_size,camera,emotion,dialogue,narration,final_duration_seconds,start_state,end_state,reference_assets,image_prompt,video_prompt,audio,acceptance,status

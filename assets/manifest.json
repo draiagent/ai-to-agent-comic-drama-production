@@ -1,0 +1,38 @@
+[
+  {
+    "page": 1,
+    "title": "全流程總覽",
+    "path": "assets/images/01-overview.png",
+    "original_filename": "ChatGPT 圖像 2026年9月25日 下午07_52_33.png",
+    "sha256": "eb8d7845264b249baa285cde094931ff66fb53f48003cbf235a80abcd8424fee",
+    "source": "使用者本次提供之最終圖卡；由先前 AI 輔助生成",
+    "license": "pending"
+  },
+  {
+    "page": 2,
+    "title": "前製 VAC",
+    "path": "assets/images/02-preproduction.png",
+    "original_filename": "ChatGPT 圖像 2026年9月25日 下午07_51_47.png",
+    "sha256": "322bedc981baa80b0c089b97c80ad75f417e6e97bbfc859492c72519fbcc651e",
+    "source": "使用者本次提供之最終圖卡；由先前 AI 輔助生成",
+    "license": "pending"
+  },
+  {
+    "page": 3,
+    "title": "生成 VAC",
+    "path": "assets/images/03-generation.png",
+    "original_filename": "ChatGPT 圖像 2026年9月25日 下午07_51_51.png",
+    "sha256": "13894eff34ac23718d176f8bde396c17c915ef746da4b941f1b2348b782251e0",
+    "source": "使用者本次提供之最終圖卡；由先前 AI 輔助生成",
+    "license": "pending"
+  },
+  {
+    "page": 4,
+    "title": "交付 VAC",
+    "path": "assets/images/04-delivery.png",
+    "original_filename": "ChatGPT 圖像 2026年9月25日 下午07_51_35.png",
+    "sha256": "6e252689a8d2d8d171e0888c193e041b9e5510c86a74e1fad0a0ee6d4e497de1",
+    "source": "使用者本次提供之最終圖卡；由先前 AI 輔助生成",
+    "license": "pending"
+  }
+]
