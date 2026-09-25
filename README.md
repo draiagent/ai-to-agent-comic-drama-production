@@ -61,7 +61,7 @@ AI Coach 益力康陳董 x CGM Coach 血糖教練 | 2026 AI to Agent
 - `examples/`：30秒六鏡案例與一份已填寫的Shot VAC示例。
 - `scripts/validate_repo.py`：檢查本地路徑、JSON、圖片雜湊與套件完整性。
 - `VERSION`：專案版本來源；`project.json` 為中繼資料，版本須與其一致。
-- 根目錄其他文件：授權／版權／素材聲明、變更紀錄、貢獻規範、Agent規則、檢查報告與Release草稿。
+- 根目錄其他文件：授權／版權／素材聲明、變更紀錄、貢獻規範、Agent規則、檢查報告與發布說明。
 
 ## 檢查
 
@@ -75,7 +75,7 @@ python3 scripts/validate_repo.py
 
 ## 版本與後續計畫
 
-0.1.0為方法論初版；欄位可能依實作經驗調整。[變更紀錄](CHANGELOG.md)記錄已完成內容。[發布說明](RELEASE_NOTES.md)為草稿。
+0.1.0為方法論初版；欄位可能依實作經驗調整。[變更紀錄](CHANGELOG.md)記錄已完成內容。[發布說明](RELEASE_NOTES.md)為 v0.1.0 Release 內容。
 
 後續可擴充：真實工具adapter、自動記錄成本、驗收證據整理及經授權的端到端實測；以上尚未實作。
 
